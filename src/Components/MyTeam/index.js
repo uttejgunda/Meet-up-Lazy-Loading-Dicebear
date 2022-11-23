@@ -53,7 +53,7 @@ const MyTeam = () => {
       }
     };
     getdata();
-  }, [apiError]);
+  }, [apiError, page]);
   console.log(selectedList);
   console.log(loadMore);
 
@@ -64,7 +64,7 @@ const MyTeam = () => {
         setLoadMore(false);
       }, 1000);
     }
-  }, [page]);
+  }, [page, loadMore, userList]);
 
   const handleScroll = () => {
     if (
