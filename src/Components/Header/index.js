@@ -51,7 +51,7 @@ const Header = () => (
 
             <PopupActionContainer>
               <ActionLinkContainer
-                href="https://drive.google.com/file/d/1J65FWYD9e2hbzSV1F1T6hCGid6KGY3mJ/view?usp=sharing"
+                href="https://drive.google.com/file/d/1mkKtB1cJk4ws-KTiFTHh8YFqS-GCQte3/view?usp=sharing"
                 target="_blank"
               >
                 <GrDocumentEl color="#00306e" />
@@ -65,7 +65,7 @@ const Header = () => (
                 <Actiontitle>LinkedIn Profile</Actiontitle>
               </ActionLinkContainer>
               <ActionLinkContainer
-                href="https://drive.google.com/uc?export=download&id=1J65FWYD9e2hbzSV1F1T6hCGid6KGY3mJ"
+                href="https://drive.google.com/uc?export=download&id=1mkKtB1cJk4ws-KTiFTHh8YFqS-GCQte3"
                 target="_blank"
                 download
               >
